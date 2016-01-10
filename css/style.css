@@ -237,7 +237,7 @@ section {
 	width: 100%;
 }
 
-.justgrimes {
+.austinprofile {
  width: 370px;
  height:370px;
  display:block;
@@ -246,11 +246,11 @@ section {
  background:transparent url('../images/austin.jpg') center top no-repeat;
 }
 
-.justgrimes:hover {
+/*.austinprofile:hover {
    background-image: url('../images/justin2.jpg');
-}
+}*/
 
-.amgallow {
+.cassadyprofile {
  width: 370px;
  height:370px;
  display:block;
@@ -259,8 +259,62 @@ section {
  background:transparent url('../images/hawaii_kiss.jpg') center top no-repeat;
 }
 
-.amgallow:hover {
+/*.cassadyprofile:hover {
    background-image: url('../images/ann2.jpg');
+}*/
+
+.andreaprofile {
+	width: 270px;
+	height:270px;
+	display:block;
+	display: inline-block;
+	position: relative;
+	background:transparent url('../images/Andrea2_crop.jpg') center top no-repeat;
+}
+
+.karenprofile {
+	width: 270px;
+	height:270px;
+	display:block;
+	display: inline-block;
+	position: relative;
+	background:transparent url('../images/Karen_crop.jpg') center top no-repeat;
+}
+
+.brittanyprofile {
+	width: 270px;
+	height:270px;
+	display:block;
+	display: inline-block;
+	position: relative;
+	background:transparent url('../images/Brittany_crop.jpg') center top no-repeat;
+}
+
+.merylprofile {
+	width: 270px;
+	height:270px;
+	display:block;
+	display: inline-block;
+	position: relative;
+	background:transparent url('../images/Meryl_crop2.jpg') center top no-repeat;
+}
+
+.katieprofile {
+	width: 270px;
+	height:270px;
+	display:block;
+	display: inline-block;
+	position: relative;
+	background:transparent url('../images/Katie_crop2.jpg') center top no-repeat;
+}
+
+.michelleprofile {
+	width: 270px;
+	height:270px;
+	display:block;
+	display: inline-block;
+	position: relative;
+	background:transparent url('../images/Michelle_crop.jpg') center top no-repeat;
 }
 
 .hover-effect i {
