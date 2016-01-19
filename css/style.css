@@ -214,7 +214,7 @@ section {
 
 .hover-effect span {
 	background: #d6516d;
-	color: #fff;
+	color: #ead272;
 	display: block;
 	height: 0;
 	left: 50%;
@@ -256,7 +256,7 @@ section {
  display:block;
 	display: inline-block;
 	position: relative;
- background:transparent url('../images/hawaii_kiss.jpg') center top no-repeat;
+ background:transparent url('../images/Cassady_crop.jpg') center top no-repeat;
 }
 
 /*.cassadyprofile:hover {
@@ -315,6 +315,105 @@ section {
 	display: inline-block;
 	position: relative;
 	background:transparent url('../images/Michelle_crop.jpg') center top no-repeat;
+}
+
+.jackprofile {
+	width: 270px;
+	height:270px;
+	display:block;
+	display: inline-block;
+	position: relative;
+	background:transparent url('../images/Jack_crop.jpg') center top no-repeat;
+}
+
+.brendanprofile {
+	width: 270px;
+	height:270px;
+	display:block;
+	display: inline-block;
+	position: relative;
+	background:transparent url('../images/Brendan_crop.jpg') center top no-repeat;
+}
+
+.skipprofile {
+	width: 270px;
+	height:270px;
+	display:block;
+	display: inline-block;
+	position: relative;
+	background:transparent url('../images/Skip_crop.jpg') center top no-repeat;
+}
+
+.zacprofile {
+	width: 270px;
+	height:270px;
+	display:block;
+	display: inline-block;
+	position: relative;
+	background:transparent url('../images/Zac_crop.jpg') center top no-repeat;
+}
+
+.deeksprofile {
+	width: 270px;
+	height:270px;
+	display:block;
+	display: inline-block;
+	position: relative;
+	background:transparent url('../images/Deeks_crop.jpg') center top no-repeat;
+}
+
+.ssofprofile {
+	width: 270px;
+	height:270px;
+	display:block;
+	display: inline-block;
+	position: relative;
+	background:transparent url('../images/SirSnuggles_crop.jpg') center top no-repeat;
+}
+
+.gigiprofile {
+	width: 270px;
+	height:270px;
+	display:block;
+	display: inline-block;
+	position: relative;
+	background:transparent url('../images/Gigi_crop.jpg') center top no-repeat;
+}
+
+.ethanprofile {
+	width: 270px;
+	height:270px;
+	display:block;
+	display: inline-block;
+	position: relative;
+	background:transparent url('../images/Ethan_crop.jpg') center top no-repeat;
+}
+
+.kaylaprofile {
+	width: 270px;
+	height:270px;
+	display:block;
+	display: inline-block;
+	position: relative;
+	background:transparent url('../images/Kayla_crop.jpg') center top no-repeat;
+}
+
+.haleyprofile {
+	width: 270px;
+	height:270px;
+	display:block;
+	display: inline-block;
+	position: relative;
+	background:transparent url('../images/Haley_crop.jpg') center top no-repeat;
+}
+
+.kadyprofile {
+	width: 270px;
+	height:270px;
+	display:block;
+	display: inline-block;
+	position: relative;
+	background:transparent url('../images/Kady_crop.jpg') center top no-repeat;
 }
 
 .hover-effect i {
