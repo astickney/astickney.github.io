@@ -34,7 +34,7 @@ h3,h4,h5,h6 {
 }
 
 h6 {
-	color: #d6516d;
+	color: #c7646b;
 }
 
 .x {
@@ -213,7 +213,7 @@ section {
 }
 
 .hover-effect span {
-	background: #d6516d;
+	background: #ead272;
 	color: #ead272;
 	display: block;
 	height: 0;
@@ -413,7 +413,7 @@ section {
 	display:block;
 	display: inline-block;
 	position: relative;
-	background:transparent url('../images/Kady_crop.jpg') center top no-repeat;
+	background:transparent url('../images/Kady2_crop.jpg') center top no-repeat;
 }
 
 .hover-effect i {
@@ -455,8 +455,8 @@ section {
 }
 
 .social-icons a:hover {
-	border: 1px solid #d6516d;
-	color: #d6516d;
+	border: 1px solid #ead272;
+	color: #ead272;
 }
 
 /* PEOPLE & ACCOMMODATION
