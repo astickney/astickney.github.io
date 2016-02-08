@@ -271,8 +271,8 @@ html {
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 body {
-  font-family: "PT Serif", Georgia, "Times New Roman", Times, serif;
-  font-size: 14px;
+  font-family: 'Neuton', serif;
+  font-size: 16px;
   line-height: 1.714;
   color: #999999;
   background-color: #ffffff;
@@ -441,7 +441,7 @@ h6 .small,
 }
 h1,
 .h1 {
-  font-size: 99px;
+  font-size: 80px;
 }
 h2,
 .h2 {

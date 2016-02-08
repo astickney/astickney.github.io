@@ -6,6 +6,8 @@
 /* GLOBAL STYLES
 =========================================================================================*/
 
+@font-face { font-family: annaclara; src: url('../fonts/HLT%20Anna%20Clara.ttf'); }
+
 body {
 	overflow-x: hidden;
 }
@@ -16,18 +18,19 @@ body {
 
 h1 {
 	color: #fff;
-	font-family: 'Engagement', cursive;
+	font-family: 'annaclara';
 	font-weight: normal;
 	margin: 0;
 }
 
 h2 {
-	font-family: 'Engagement', cursive;
+	font-family: 'annaclara';
 	font-weight: normal;
 	margin: 0;
 }
 
 h3,h4,h5,h6 {
+	font-family: 'Neuton', serif;
 	margin: 3em 0;
 	letter-spacing: 0.2em;
 	text-transform: uppercase;
@@ -243,7 +246,7 @@ section {
  display:block;
 	display: inline-block;
 	position: relative;
- background:transparent url('../images/austin.jpg') center top no-repeat;
+ background:transparent url('../images/Austin3_crop.jpg') center top no-repeat;
 }
 
 /*.austinprofile:hover {
@@ -315,6 +318,15 @@ section {
 	display: inline-block;
 	position: relative;
 	background:transparent url('../images/Michelle_crop.jpg') center top no-repeat;
+}
+
+.nathanprofile {
+	width: 270px;
+	height:270px;
+	display:block;
+	display: inline-block;
+	position: relative;
+	background:transparent url('../images/Nathan_crop.jpg') center top no-repeat;
 }
 
 .jackprofile {
