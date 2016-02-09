@@ -320,6 +320,15 @@ section {
 	background:transparent url('../images/Michelle_crop.jpg') center top no-repeat;
 }
 
+.amritaprofile {
+	width: 270px;
+	height:270px;
+	display:block;
+	display: inline-block;
+	position: relative;
+	background:transparent url('../images/Amrita_crop.jpg') center top no-repeat;
+}
+
 .nathanprofile {
 	width: 270px;
 	height:270px;
@@ -371,7 +380,16 @@ section {
 	display:block;
 	display: inline-block;
 	position: relative;
-	background:transparent url('../images/Deeks_crop.jpg') center top no-repeat;
+	background:transparent url('../images/Deeks2_crop.jpg') center top no-repeat;
+}
+
+.kittiesprofile {
+	width: 270px;
+	height:270px;
+	display:block;
+	display: inline-block;
+	position: relative;
+	background:transparent url('../images/Kitties_crop.jpg') center top no-repeat;
 }
 
 .ssofprofile {
