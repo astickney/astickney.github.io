@@ -13,6 +13,8 @@
 		<script src="js/pace.min.js"></script>
   		<link href="css/pace.css" rel="stylesheet" />
 
+		<script src="https://github.com/astickney/countdown/blob/master/jQuery.countdown-master/dist/jquery.countdown.js"></script>
+		
 		<!-- Bootstrap -->
 		<link href="css/bootstrap.css" rel="stylesheet">
 
@@ -186,6 +188,15 @@
 		<!-- ========== OUR STORY START ========== -->
 
 		<section id="explain" style="background: url(images/blush_texture.jpg) repeat;">
+			<div class="countdown">
+			  Limited Time Only!
+			  <span id="clock"></span>
+			</div>
+			<script type="text/javascript">
+				$('#clock').countdown('2020/10/10', function(event) {
+  					$(this).html(event.strftime('%D days %H:%M:%S'));
+				});
+			</script>
 			<div class="container text-center">
 				<div class="row">
 					<div class="col-sm-12 heading" data-scroll-reveal>
